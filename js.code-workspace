@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "paperjs-v0.12.15"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "js"
+	}
+}
